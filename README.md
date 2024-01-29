@@ -13,7 +13,7 @@ It doesn't support WPF app !
 # Features
 
 * English UI language only
-* Displays selected .exe informations (assembly name, Version, TargetRuntime, TargetCPU, SubSystemType)
+* Displays selected .exe iformations (assembly name, Version, TargetRuntime, TargetCPU, SubSystemType)
 * Selecting encoding chars type : Alphabetic, Dots, Invisible, Chinese, Japanese, Greek, Flowing, Symbols) 
 * Renaming : Namespaces, Types, Methods (overrides also), Properties, Fields, Custom Attributes, Events, Parameters, Resources and/or content ..... 
 * Dependencies detection & merging/embedding (encrypt and/or compress or not)
